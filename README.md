@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python and AWS**
 
-- 📝 I regularly write articles on [https://medium.com/@gogiashvili.ilona](https://medium.com/@gogiashvili.ilona)
+- 📝 I regularly write blogs on [https://medium.com/@gogiashvili.ilona](https://medium.com/@gogiashvili.ilona)
 
 - 📫 How to reach me **Gogiashvili.ilona@gmail.com**
 
