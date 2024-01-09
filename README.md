@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ilona Gogiashvili</h1>
 <h3 align="center">Full Stack Web Developer, excited to create solutions that can improve the digital experience of users.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilonagog&label=Profile%20views&color=0e75b6&style=flat" alt="ilonagog" /> </p>
+
 - 🌱 I’m currently learning **Python and AWS**
-  
-- 📝 I regularly write blogs on [https://medium.com/@gogiashvili.ilona]
+
+- 📝 I regularly write articles on [https://medium.com/@gogiashvili.ilona](https://medium.com/@gogiashvili.ilona)
 
 - 📫 How to reach me **Gogiashvili.ilona@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ilona-gogiashvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilona-gogiashvili" height="30" width="40" /></a>
+<a href="https://medium.com/@gogiashvili.ilona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gogiashvili.ilona" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,5 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilonagog&show_icons=true&locale=en&layout=compact" alt="ilonagog" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilonagog&show_icons=true&locale=en" alt="ilonagog" /></p>
 
 
