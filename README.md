@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilona Gogiashvili</h1>
 <h3 align="center">Full Stack Web Developer, excited to create solutions that can improve the digital experience of users.</h3>
-
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif” /> </p>
-
-
 - 🌱 I’m currently learning **Python and AWS**
   
-
 - 📝 I regularly write blogs on [https://medium.com/@gogiashvili.ilona]
 
 - 📫 How to reach me **Gogiashvili.ilona@gmail.com**
