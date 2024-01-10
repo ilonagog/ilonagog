@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilonagog&label=Profile%20views&color=0e75b6&style=flat" alt="ilonagog" /> </p>
 
-- 🌱 I’m currently learning **Python and AWS**
+-  I’m currently learning **Python and AWS**
 
-- 📝 I regularly write articles on [https://medium.com/@gogiashvili.ilona](https://medium.com/@gogiashvili.ilona)
+- 📝 You can find my blogs here: [https://medium.com/@gogiashvili.ilona](https://medium.com/@gogiashvili.ilona)
 
 - 📫 How to reach me **Gogiashvili.ilona@gmail.com**
 
